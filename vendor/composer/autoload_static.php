@@ -44,6 +44,7 @@ class ComposerStaticInit8116c249f0b4dbcd995d077b53ca826b
             'Symfony\\UX\\TwigComponent\\' => 25,
             'Symfony\\UX\\Turbo\\' => 17,
             'Symfony\\UX\\StimulusBundle\\' => 26,
+            'Symfony\\UX\\LiveComponent\\' => 25,
             'Symfony\\UX\\Autocomplete\\' => 24,
             'Symfony\\Runtime\\Symfony\\Component\\' => 34,
             'Symfony\\Polyfill\\Php83\\' => 23,
@@ -194,6 +195,10 @@ class ComposerStaticInit8116c249f0b4dbcd995d077b53ca826b
         'Symfony\\UX\\StimulusBundle\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/stimulus-bundle/src',
+        ),
+        'Symfony\\UX\\LiveComponent\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/ux-live-component/src',
         ),
         'Symfony\\UX\\Autocomplete\\' => 
         array (
