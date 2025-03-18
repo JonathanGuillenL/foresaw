@@ -13,6 +13,7 @@ return array(
     'Symfonycasts\\TailwindBundle\\' => array($vendorDir . '/symfonycasts/tailwind-bundle/src'),
     'Symfonycasts\\DynamicForms\\' => array($vendorDir . '/symfonycasts/dynamic-forms/src'),
     'Symfony\\UX\\TwigComponent\\' => array($vendorDir . '/symfony/ux-twig-component/src'),
+    'Symfony\\UX\\Turbo\\' => array($vendorDir . '/symfony/ux-turbo/src'),
     'Symfony\\UX\\StimulusBundle\\' => array($vendorDir . '/symfony/stimulus-bundle/src'),
     'Symfony\\UX\\Autocomplete\\' => array($vendorDir . '/symfony/ux-autocomplete/src'),
     'Symfony\\Runtime\\Symfony\\Component\\' => array($vendorDir . '/symfony/runtime/Internal'),
