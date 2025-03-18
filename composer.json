@@ -94,6 +94,8 @@
     },
     "require-dev": {
         "php-cs-fixer/shim": "^3.72",
-        "symfony/maker-bundle": "^1.62"
+        "symfony/maker-bundle": "^1.62",
+        "symfony/stopwatch": "7.1.*",
+        "symfony/web-profiler-bundle": "7.1.*"
     }
 }
